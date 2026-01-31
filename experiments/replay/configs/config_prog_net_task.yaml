@@ -1,0 +1,11 @@
+batch_size: 16
+gamma: 0.5
+hidden_dims:
+- 256
+- 256
+lambda_ewc: 0.4
+learning_rate: 0.001
+max_size_per_task: 1000
+replay_weight: 1.0
+step_size: 20
+weight_decay: 1.0e-05

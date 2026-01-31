@@ -1,0 +1,4 @@
+backward_transfer: -0.045
+forgetting: 0.045
+overall_accuracy: 0.9169
+train_average_accuracy: 0.957

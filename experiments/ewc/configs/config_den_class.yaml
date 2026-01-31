@@ -1,0 +1,14 @@
+batch_size: 16
+gamma: 0.5
+grad_threshold: 0.001
+hidden_dims:
+- 256
+- 256
+lambda_ewc: 0.4
+lambda_sparse: 0.001
+learning_rate: 0.001
+max_grad_norm: 1.0
+percentile: 20.0
+replay_weight: 1.0
+step_size: 20
+weight_decay: 0.0001

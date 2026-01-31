@@ -1,0 +1,20 @@
+activation_functions:
+- leaky_relu
+- tanh
+- relu
+batch_size: 16
+dropout_rates:
+- 0.4459
+- 0.1863
+- 0.1279
+gamma: 0.4855325340941379
+hidden_layers:
+- 216
+- 251
+- 197
+lambda_ewc: 0.4
+learning_rate: 0.0004980564413343545
+max_size_per_class: 1000
+replay_weight: 1.0
+step_size: 14.161634448046335
+weight_decay: 8.560817132298919e-06
